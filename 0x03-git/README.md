@@ -1,1 +1,1 @@
-this file is mandatory
+this file is mandatory for all
